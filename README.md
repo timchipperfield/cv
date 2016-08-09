@@ -1,22 +1,19 @@
 # Tim Chipperfield
 
-
-[**Overview**](#Overview)
-[**Strengths**](#A-Few-of-My-Strengths)
-[**Projects**](#education)
-[**Work**](#work)
-[**Education**](#education)
+[**Overview**](#overview) |
+[**Strengths**](#strengths) |
+[**Projects**](#projects) |
+[**Work**](#work) |
+[**Education**](#education) |
 [**Hobbies**](#play)
 
+## <a name="overview"> Overview</a>
 
-## Overview
-***
-I’ve had an diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at Makers Academy (a London Based coding bootcamp), which led to one of my most rapid self-development transformations.  I’m confident that I am now ready to be a junior developer but I would also say that my journey is just beginning.
+I’ve had an diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at Makers Academy (a London Based coding bootcamp), which led to one of my most rapid self-development transformations.  While I am ready to be a junior developer, I would also say that my journey is just beginning.
 
 I’ve become a developer because I see this as a place where I can be learning all the time, where continuous growth is welcomed and where I can reach my potential.
 
-## A Few of My Strengths
-***
+## <a name="strengths"> Strengths</a>
 
 ### Professional 'Learn-aholic'
 
@@ -30,15 +27,18 @@ I’ve worked in a team-based environment in most of my adult life. As a politic
 
 My transition to coding has been a might appear sudden but it’s a been a long time coming. It may have started on the other side of the world, while working in overseas development in Mozambique, where I found that people started seeing me as a problem solver for their computer issues. I also realized that I enjoyed making simple websites yet that I yearned for more.
 
-## A Few Project I'm Proud Of
+## <a name="projects"> Projects</a>
 
-* Chasing Shadows
-**  
+* [**Chasing Shadows**](#chasing_shadows)
+An augmented reality video game using the player's real time position using the google maps API.
+
+* [**Pear**](#pear)
+A webapp designed to help programmers find their perfect pair.
 
 
 
-## Work Experience Overview
-***
+## <a name="work"> Work Experience Overview</a>
+
 * **Ruhr University Bochum, Germany** Graduate Student Research Assistant (May 2015-April 2016)
 
 * **Independent Political Consultant in Vancouver, Canada** (March 2013-February 2014)
@@ -49,19 +49,18 @@ My transition to coding has been a might appear sudden but it’s a been a long 
 
 * **Liberal Party of Canada in Vancouver, Canada** Provincial Youth Director and Outreach Officer (August 2009-December 2009)
 
-## Education Overview
----
+## <a name="education"> Education Overview</a>
 
-* **Learning to Code** at Makers Academy in London, United Kingdom (April 2016-August 2016)
-*
+* **Coding Bootcamp** at Makers Academy in London, United Kingdom (April 2016-August 2016)
+
 * **Masters of Arts in Development Management** at Ruhr University Bochum, Germany (August 2014-March 2016)
 
 * **Certificate in Project Management** specializing in sustainability management at University of British Columbia (UBC) in Vancouver, Canada (September 2013-April 2014)
 
 * **Bachelor of Arts in Political Science** at University of Victoria (September 2006-May 2009)
 
-## When I'm Not Coding
-___
+## <a name="play"> When I'm Not Coding</a>
+
 * Guitarist, would love to start a band here in London
 * Into travelling and learning new languages
 * *Very* amateur photographer with a blog: journeysindevelopment.wordpress.com
