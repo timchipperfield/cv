@@ -1,6 +1,14 @@
 # Tim Chipperfield
 
 
+[**Overview**](#Overview)
+[**Strengths**](#A-Few-of-My-Strengths)
+[**Projects**](#education)
+[**Work**](#work)
+[**Education**](#education)
+[**Hobbies**](#play)
+
+
 ## Overview
 ***
 I’ve had an diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at Makers Academy (a London Based coding bootcamp), which led to one of my most rapid self-development transformations.  I’m confident that I am now ready to be a junior developer but I would also say that my journey is just beginning.
@@ -12,17 +20,22 @@ I’ve become a developer because I see this as a place where I can be learning 
 
 ### Professional 'Learn-aholic'
 
-The biggest thing that I could bring to your team as a junior developer: my continual quest for knowledge and self-improvement. Most recently, I conducted studies for my Masters Degree on the environmental impacts from the textile in Bangaldesh. I also won the award for best academic paper / presentation at a conference in May.
-
-What does all this have to do with coding? Everything. When I started learning javascript, it was intimidating. But it was the challenge of  learning a completely new language that really drove me to work hard. I spent days researching and in the end managed to produce code that I am proud of.
+The biggest thing that I could bring to your team as a junior developer: my continual quest for knowledge and self-improvement. Most recently, I conducted studies for my Masters Degree on the environmental impacts from the textile in Bangaldesh. I also won the award for best academic paper / presentation at a conference in May. What does all this have to do with coding? Everything. When I started learning javascript, it was intimidating. But it was the challenge of  learning a completely new language that really drove me to work hard. I spent days researching and in the end managed to produce code that I am proud of.... [Link](http://) link to project
 
 ### Driven Project Collaborator
 
-I’ve worked in a team-based environment in most of my adult life. As a political consultant, I worked on highly diverse and fast paced teams. I usually find myself taking on two roles in a team. The first is the one who keeps the team focused on the and goal… to complement and expand upon my project skills, I studied project management in and earned a certificate in 2014.
+I’ve worked in a team-based environment in most of my adult life. As a political consultant, I worked on highly diverse projects in fast paced team environments. Additionally, I had I usually find myself taking on two roles in a team. The first is the one who keeps the team focused on the and goal… to complement and expand upon my project skills, I studied project management in and earned a certificate in 2014.
 
 ### Lover of Technology and Creative Approaches
 
 My transition to coding has been a might appear sudden but it’s a been a long time coming. It may have started on the other side of the world, while working in overseas development in Mozambique, where I found that people started seeing me as a problem solver for their computer issues. I also realized that I enjoyed making simple websites yet that I yearned for more.
+
+## A Few Project I'm Proud Of
+
+* Chasing Shadows
+**  
+
+
 
 ## Work Experience Overview
 ***
@@ -49,6 +62,6 @@ My transition to coding has been a might appear sudden but it’s a been a long 
 
 ## When I'm Not Coding
 ___
-* Long-time guitarist, would love to start a band here in London
-* Really into travel and learning new languages
-* Very amateur photographer with a blog: journeysindevelopment.wordpress.com
+* Guitarist, would love to start a band here in London
+* Into travelling and learning new languages
+* *Very* amateur photographer with a blog: journeysindevelopment.wordpress.com
