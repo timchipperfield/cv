@@ -29,13 +29,19 @@ My transition to coding has been a might appear sudden but it’s a been a long 
 
 ## <a name="projects"> Projects</a>
 
-* [**Chasing Shadows**](#chasing_shadows)
-An augmented reality video game using the player's real time position using the google maps API.
-
-* [**Pear**](#pear)
-A webapp designed to help programmers find their perfect pair.
+* [**Chasing Shadows**](https://github.com/timchipperfield/cchasing_shadows)
+An augmented reality video game using the player's real time position using the google maps API. Our team built a Ruby on Rails API server which communicated with a node.js front-end deployed for IOS via cordova.
+  * I worked primarily using Javascript, HTML, SASS, and Cordova while implementing the google map and animation features and receive requests from the Rails API.
 
 
+*  [**Pear**](https://github.com/timchipperfield/pear)
+A Ruby on Rails webapp designed to help programmers find their perfect pair-programming partner.
+  * I implemented features using both Ruby on Rails and node.js with elements of HTML and CSS.
+
+
+* [**TAARK BNB**](https://github.com/timchipperfield/Taarkbnb)
+An Air BnB clone created using Sinatra and a Postgresql database.
+  * I contributed by coding in ruby including constructing the authentication system and database components and relationships.
 
 ## <a name="work"> Work Experience Overview</a>
 
