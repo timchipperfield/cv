@@ -40,7 +40,7 @@ This is why I chose a career in development. It's a chance to use my brain to bu
 | Project        | Overview   | Tech I Used | Link   |
 | -------------- | ---------- | ----------- | ------ |
 | Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
-| Pear for Developers | A Ruby on Rails webapp with some javascript designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
+| Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
 | TAARK BnB | An Air BnB clone created using Sinatra and a Postgresql database. | Sinatra (Ruby),PostgreSQL, CSS, HTML | [Github repo](https://github.com/timchipperfield/Taarkbnb) [Live Page](https://github.com/timchipperfield/Taarkbnb)
 
 
