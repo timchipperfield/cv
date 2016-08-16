@@ -17,7 +17,7 @@ I’ve become a developer because I see this as a place where I can be learning 
 
 ### :mag_right: Professional 'Learn-aholic'
 
-The most valuable thing that I could bring to your team as a junior developer is my continual quest for knowledge and self-improvement. Most recently, I completed a [*master's degree*](#education) and researched the environmental impacts from the textile in Bangladesh. I also won the award for best academic paper / presentation at a conference for my master's research.
+The most valuable thing that I could bring to your team as a junior developer is my continual quest for knowledge and self-improvement. Most recently, I completed a [*master's degree*](#education) where I did primary research on the environmental impacts of the textile industry in Bangladesh. I also won the award for best academic paper / presentation at a conference for my master's research.
 
 What does all this have to do with coding? Everything. When I started learning javascript, it was intimidating. But it was the challenge of  learning a completely new language that really drove me to work hard. I spent days researching syntax and structure and in the end managed to produce [*code that I am proud of* ](https://github.com/timchipperfield/chasing_shadows).
 
@@ -25,13 +25,13 @@ What does all this have to do with coding? Everything. When I started learning j
 
 As a [*political consultant*](#work), I worked on fast-paced team-based projects which helped me learn that a great team is greater than the sum of its individual members.
 
-I had I usually found myself taking on two roles in a team. The first is the one who keeps the team focused on the and goal and lays out solutions to reach project goals on time. The second role is that of the workhorse - once the team decides what needs to be done, I happily can take a chunk of a project and run with it.
+I usually found myself taking on two roles in a team. Firstly, as the one who keeps the team focused on the and goal and lays out solutions to reach project goals on time. The second role is that of the workhorse - once the team decides what needs to be done, I can happily take a chunk of a project and run with it.
 
-I love team-based and project environments and to complement my skills, I [*studied project management*](#education) in and earned a certificate in 2014.
+I love team and project-based environments and to complement my skills, I [*studied project management*](#education), earning a certificate in 2014.
 
 ### :bulb: Creative Problem Solver
 
-My transition to coding might appear sudden but it’s a been a long time coming. It may have started on the other side of the world, while working on a [*mangrove reforestation project in Mozambique*](#work), where I found that people started seeing me as a problem solver for their computer issues. I also realised that I enjoyed making simple websites yet that I yearned for more. Or it may have started from the age of 11 when I won a giant castle for coming first in a lego making competition. Even back then, I recognised that I could use same building blocks in a different way to make an amazing product.
+My transition to coding might appear sudden but it’s been a long time coming. It may have started on the other side of the world, while working on a [*mangrove reforestation project in Mozambique*](#work), where I found that people started seeing me as a problem solver for their computer issues. I also realised that I enjoyed making simple websites yet that I yearned for more. Or it may have started from the age of 11 when I won a giant castle for coming first in a lego making competition. Even back then, I recognised that I could use same building blocks in a different way to make an amazing product.
 
 This is why I chose a career in development. It's a chance to use my brain to build something creative and unique that I can be proud of.
 
@@ -39,7 +39,7 @@ This is why I chose a career in development. It's a chance to use my brain to bu
 
 | Project        | Overview   | Tech I Used | Link   |
 | -------------- | ---------- | ----------- | ------ |
-| Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
+| Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via Cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
 | Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
 | TAARK BnB | An Air BnB clone written in Ruby using Sinatra web framework and a Postgresql database. | Sinatra (Ruby),PostgreSQL, CSS, HTML | [Github repo](https://github.com/timchipperfield/Taarkbnb) [Live Page](https://github.com/timchipperfield/Taarkbnb)
 
