@@ -1,5 +1,4 @@
-# Tim Chipperfield
-## Currently available to work as a junior developer
+# Tim Chipperfield ## Currently available to work as a junior developer
 
 [**Overview**](#overview) |
 [**Strengths**](#strengths) |
