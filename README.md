@@ -11,7 +11,7 @@
 
 I’ve had a diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at [*Makers Academy*](#education) (a London-based coding bootcamp), which led to one of my most rapid self-development transformations. I feel equipped with the skills to be a junior developer, but this is also marks the beginning of a journey in a new direction.
 
-I’ve become a developer because I see this as a place where I can be learning all the time, where continuous growth is welcomed and where I can reach my potential.
+I’ve become a developer because I see this as a place where I can be learning all the time and where continuous growth is welcomed.
 
 ## :zap:<a name="strengths"> Strengths</a>
 
