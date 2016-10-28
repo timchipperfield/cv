@@ -9,7 +9,7 @@
 
 ## :earth_americas: <a name="overview"> Overview</a>
 
-I’ve had a diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at [*Makers Academy*](#education) (a London-based coding bootcamp), which led to one of my most rapid self-development transformations. I feel equipped with the skills to be a junior developer, but this is also marks the beginning of a journey in a new direction.
+I’ve had a diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at [*Makers Academy*](#education) (a London-based coding bootcamp), which led to one of my most rapid self-development transformations. I feel equipped with the skills to be a junior developer, but this also marks the beginning of a journey in a new direction.
 
 I’ve become a developer because I see this as a place where I can be learning all the time and where continuous growth is welcomed.
 
@@ -25,7 +25,7 @@ What does all this have to do with coding? Everything. When I started learning j
 
 As a [*political consultant*](#work), I worked on fast-paced team-based projects which helped me learn that a great team is greater than the sum of its individual members.
 
-I usually found myself taking on two roles in a team. Firstly, as the one who keeps the team focused on the and goal and lays out solutions to reach project goals on time. The second role is that of the workhorse - once the team decides what needs to be done, I can happily take a chunk of a project and run with it.
+I usually found myself taking on two roles in a team. Firstly, as the one who keeps the team focused on the end goal and lays out solutions to reach project goals on time. The second role is that of the workhorse - once the team decides what needs to be done, I can happily take a chunk of a project and run with it.
 
 I love team and project-based environments and to complement my skills, I [*studied project management*](#education), earning a certificate in 2014.
 
