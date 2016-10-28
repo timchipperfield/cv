@@ -12,12 +12,12 @@
 
 I’ve had a diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at [*Makers Academy*](#education) (a London-based coding bootcamp), which led to one of my most rapid self-development transformations. I feel equipped with the skills to be a junior developer, but this also marks the beginning of a journey in a new direction.
 
-I’ve become a developer because I see this as a place where I can be learning all the time and where continuous growth is welcomed.
+I’ve become a developer because I see this as a place where I can build amazing things using my brain.
 
 ## :zap:<a name="strengths"> Strengths</a>
 
 ### :mag_right: Professional 'Learn-aholic'
-
+ 
 The most valuable thing that I could bring to your team as a junior developer is my continual quest for knowledge and self-improvement. Most recently, I completed a [*master's degree*](#education) where I did primary research on the environmental impacts of the textile industry in Bangladesh. I also won the award for best academic paper / presentation at a conference for my master's research.
 
 What does all this have to do with coding? Everything. When I started learning javascript, it was intimidating. But it was the challenge of  learning a completely new language that really drove me to work hard. I spent days researching syntax and structure and in the end managed to produce [*code that I am proud of* ](https://github.com/timchipperfield/chasing_shadows).
