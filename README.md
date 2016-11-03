@@ -10,17 +10,9 @@
 
 ## :earth_americas: <a name="overview"> Overview</a>
 
-I’ve had a diverse professional journey so far, having worked and studied in North America, Africa and Europe.  Yet, it was the past 16 weeks as a student at [*Makers Academy*](#education) (a London-based coding bootcamp), which led to one of my most rapid self-development transformations. I feel equipped with the skills to be a junior developer, but this also marks the beginning of a journey in a new direction.
-
-I’ve become a developer because I see this as a place where I can build amazing things using my brain.
+I'm a people-focused problem solver and I'm passionate about delivering high-quality technology solutions to make life better for people.  My professional journey has taken me around the world to deliver these solutions, and most recently, I decided to upgrade my technical skills by taking the Makers Academy course. 
 
 ## :zap:<a name="strengths"> Strengths</a>
-
-### :mag_right: Professional 'Learn-aholic'
- 
-The most valuable thing that I could bring to your team as a junior developer is my continual quest for knowledge and self-improvement. Most recently, I completed a [*master's degree*](#education) where I did primary research on the environmental impacts of the textile industry in Bangladesh. I also won the award for best academic paper / presentation at a conference for my master's research.
-
-What does all this have to do with coding? Everything. When I started learning javascript, it was intimidating. But it was the challenge of  learning a completely new language that really drove me to work hard. I spent days researching syntax and structure and in the end managed to produce [*code that I am proud of* ](https://github.com/timchipperfield/chasing_shadows).
 
 ### :wrench: A Driven Collaborator
 
@@ -28,7 +20,7 @@ As a [*political consultant*](#work), I worked on fast-paced team-based projects
 
 I usually found myself taking on two roles in a team. Firstly, as the one who keeps the team focused on the end goal and lays out solutions to reach project goals on time. The second role is that of the workhorse - once the team decides what needs to be done, I can happily take a chunk of a project and run with it.
 
-I love team and project-based environments and to complement my skills, I [*studied project management*](#education), earning a certificate in 2014.
+I love team and project-based environments and to complement my skills, I [*studied project management*](#education), earning a PMI registered certificate in 2014.
 
 ### :bulb: Creative Problem Solver
 
