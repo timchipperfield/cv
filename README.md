@@ -1,4 +1,4 @@
-# **Tim Chipperfield** 
+# **Tim Chipperfield** [<img src="https://www.codewars.com/users/timchipperfield/badges/small">]
 *Currently available to work as a junior developer*
 
 [**Overview**](#overview) |
