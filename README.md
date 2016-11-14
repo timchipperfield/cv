@@ -1,4 +1,4 @@
-# **Tim Chipperfield** [<img src="https://www.codewars.com/users/timchipperfield/badges/small">]
+# **Tim Chipperfield** 
 *Currently available to work as a junior developer*
 
 [**Overview**](#overview) |
@@ -23,6 +23,8 @@ I usually found myself taking on two roles in a team. Firstly, as the one who ke
 I love team and project-based environments and to complement my skills, I [*studied project management*](#education), earning a PMI registered certificate in 2014.
 
 ### :bulb: Creative Problem Solver
+
+<img src="https://www.codewars.com/users/timchipperfield/badges/small">
 
 My transition to coding might appear sudden but it’s been a long time coming. It may have started on the other side of the world, while working on a [*mangrove reforestation project in Mozambique*](#work), where I found that people started seeing me as a problem solver for their computer issues. I also realised that I enjoyed making simple websites yet that I yearned for more. Or it may have started from the age of 11 when I won a giant castle for coming first in a lego making competition. Even back then, I recognised that I could use same building blocks in a different way to make an amazing product.
 
