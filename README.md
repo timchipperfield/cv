@@ -24,11 +24,9 @@ I love team and project-based environments and to complement my skills, I [*stud
 
 ### :bulb: Creative Problem Solver
 
-<img src="https://www.codewars.com/users/timchipperfield/badges/small">
-
 My transition to coding might appear sudden but it’s been a long time coming. It may have started on the other side of the world, while working on a [*mangrove reforestation project in Mozambique*](#work), where I found that people started seeing me as a problem solver for their computer issues. I also realised that I enjoyed making simple websites yet that I yearned for more. Or it may have started from the age of 11 when I won a giant castle for coming first in a lego making competition. Even back then, I recognised that I could use same building blocks in a different way to make an amazing product.
 
-This is why I chose a career in development. It's a chance to use my brain to build something creative and unique that I can be proud of.
+This is why I chose a career in development. It's a chance to use my brain to build something creative and unique that I can be proud of. I try to callenge myself each day; here's my latest report from CodeWars cata problems: <img src="https://www.codewars.com/users/timchipperfield/badges/small">
 
 ## :rocket: <a name="projects"> Projects</a>
 
@@ -36,8 +34,6 @@ This is why I chose a career in development. It's a chance to use my brain to bu
 | -------------- | ---------- | ----------- | ------ |
 | Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via Cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
 | Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
-| TAARK BnB | An Air BnB clone written in Ruby using Sinatra web framework and a Postgresql database. | Sinatra (Ruby),PostgreSQL, CSS, HTML | [Github repo](https://github.com/timchipperfield/Taarkbnb) [Live Page](https://taark-bnb.herokuapp.com/)
-
 
 ## :coffee: <a name="work"> Work Experience Overview</a>
 
