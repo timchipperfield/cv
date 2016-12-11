@@ -1,11 +1,10 @@
 # **Tim Chipperfield** 
-*Currently available to work as a junior developer*
 
 [**Overview**](#overview) |
 [**Strengths**](#strengths) |
-[**Projects**](#projects) |
 [**Work**](#work) |
 [**Education**](#education) |
+[**Projects**](#projects) |
 [**Hobbies**](#play)
 
 ## :earth_americas: <a name="overview"> Overview</a>
@@ -30,14 +29,9 @@ This is why I chose a career in development. It's a chance to use my brain to bu
 
 <img src="https://www.codewars.com/users/timchipperfield/badges/small">
 
-## :rocket: <a name="projects"> Projects</a>
-
-| Project        | Overview   | Tech I Used | Link   |
-| -------------- | ---------- | ----------- | ------ |
-| Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via Cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
-| Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
-
 ## :coffee: <a name="work"> Work Experience Overview</a>
+
+* **TrueView in London, United Kingdom** Junior Software Developer (November 2016-Present)
 
 * **Ruhr University Bochum, Germany** Graduate Student Research Assistant (May 2015-April 2016)
 
@@ -58,6 +52,13 @@ This is why I chose a career in development. It's a chance to use my brain to bu
 * **Certificate in Project Management** specialising in sustainability management at University of British Columbia (UBC) in Vancouver, Canada (September 2013-April 2014)
 
 * **Bachelor of Arts in Political Science** at University of Victoria (September 2006-May 2009)
+
+## :rocket: <a name="projects"> Projects</a>
+
+| Project        | Overview   | Tech I Used | Link   |
+| -------------- | ---------- | ----------- | ------ |
+| Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via Cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
+| Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
 
 ## :guitar:<a name="play"> When I'm Not Coding</a>
 
