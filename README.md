@@ -1,7 +1,7 @@
 # **Tim Chipperfield** 
 [**Contact**](#contact) |
 [**Overview**](#overview) |
-[**Strengths**](#strengths) |
+[**Professional Strengths**](#strengths) |
 [**Work**](#work) |
 [**Education**](#education) |
 [**Projects**](#projects) |
@@ -15,7 +15,7 @@ I'm currently open to job opportunities in Vancouver and Toronto, Canada. If you
 
 I'm keen to apply my skills as a backend or full-stack developer in a progressive, team-based environment focussed on delivering quality products. My passion lies in collaborating to reach common goals and I am looking to find a career path leading towards product management.
 
-## :zap:<a name="strengths"> About Me</a>
+## :zap:<a name="strengths"> Professional Strengths</a>
 
 ### :wrench: A Driven Collaborator and Leader
 
@@ -27,8 +27,8 @@ Collaborative, project-based environments are my forte. To complement my skills,
 
 Please note: I'm flexible and I love learning new things so please don't consider the following to be an exhaustive list.  
 **Languages:** 	Ruby (proficient), Javascript & SQL (novice), Java & Python (actively learning)  
-**Tools:** 		Git, Docker, Command Line, PostgreSQL, Redis, memcached, Zenhub, Jira, UML, Honeybadger . 
-**Testing:** 	Rspec, Capybara, Jasmine . 
+**Tools:** 		Git, Docker, Command Line, PostgreSQL, Redis, memcached, Zenhub, Jira, UML, Honeybadger  
+**Testing:** 	Rspec, Capybara, Jasmine  
 **Web:** Rails, REST APIs, Slim, HTML, CSS, SCSS, jQuery  
 
 ## :coffee: <a name="work"> Work Experience Overview</a>
