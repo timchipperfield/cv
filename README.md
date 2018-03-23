@@ -1,5 +1,5 @@
 # **Tim Chipperfield** 
-[**Contact**] (#contact) |
+[**Contact**](#contact) |
 [**Overview**](#overview) |
 [**Strengths**](#strengths) |
 [**Work**](#work) |
@@ -25,11 +25,11 @@ Collaborative, project-based environments are my forte. To complement my skills,
 
 ### :bulb: Technical Overview
 
-Please note: I'm flexible and I love learning new things so please don't consider the following to be an exhaustive list.
-**Languages:** 	Ruby (proficient), Javascript & SQL (novice), Java & Python (actively learning)
-**Tools:** 		Git, Docker, Command Line, PostgreSQL, Redis, memcached, Zenhub, Jira, UML, Honeybadger
-**Testing:** 	Rspec, Capybara, Jasmine
-**Web:** Rails, REST APIs, Slim, HTML, CSS, SCSS, jQuery
+Please note: I'm flexible and I love learning new things so please don't consider the following to be an exhaustive list. \s\s
+**Languages:** 	Ruby (proficient), Javascript & SQL (novice), Java & Python (actively learning) \s\s
+**Tools:** 		Git, Docker, Command Line, PostgreSQL, Redis, memcached, Zenhub, Jira, UML, Honeybadger \s\s
+**Testing:** 	Rspec, Capybara, Jasmine \s\s
+**Web:** Rails, REST APIs, Slim, HTML, CSS, SCSS, jQuery \s\s
 
 ## :coffee: <a name="work"> Work Experience Overview</a>
 
@@ -70,7 +70,8 @@ Please note: I'm flexible and I love learning new things so please don't conside
 
 | Project        | Overview   | Tech I Used | Link   |
 | -------------- | ---------- | ----------- | ------ |
-|Codewars Challenges | I'm a fan of mini-projects such as Codewars where I complete algirithmic challenges | ruby, java, python, javascript | <img src="https://www.codewars.com/users/timchipperfield/badges/small"> |
+|Codewars Challenges | I'm a fan of algorithmic mini-projects using Codewars where I complete challenges in various languages
+<img src="https://www.codewars.com/users/timchipperfield/badges/small"> | ruby, java, python, javascript | [Codewars Profile](https://www.codewars.com/users/timchipperfield) |
 | Chasing Shadows   |  Mobile native app game using a player's real time position via the google maps API. Our team built a Ruby on Rails API server  which communicated with a front-end deployed for IOS via Cordova. | Javascript, Ruby on Rails, HTML, SASS, PostgreSQL, Cordova | [Front End Github repo](https://github.com/timchipperfield/chasing_shadows) [API Github repo](https://github.com/timchipperfield/chasing_shadows_api_server) |
 | Pear for Developers | A Ruby on Rails webapp using elements of javascript. Designed to help programmers find their perfect pair-programming partner. | Ruby on Rails, Javascript, HTML, CSS | [Github repo](https://github.com/timchipperfield/pear) [Live Page ](http://findapear.herokuapp.com/) |
 
