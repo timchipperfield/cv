@@ -21,7 +21,7 @@ Full-stack intermediate Rails developer that is passionate about creating innova
 
 I am passionate about working with people and building new things. Currently, I've been working as an API developer at an innovative dating app called TrueView where I help the team focus on our goals, track our progress and communicate with one another.
 
-Collaborative, project-based environments are my forte. To complement my skills, I studies project management, earning a PMI registered certificate in 2014. I'm a huge fan of Agile methodologies and most recently, I received the	**Certified Scrum Developer I** certification.
+Collaborative, project-based environments are my forte. To complement my skills, I studies project management, earning a PMI registered certificate in 2014. I'm a huge fan of Agile methodologies!
 
 ### :bulb: Technical Overview
 
