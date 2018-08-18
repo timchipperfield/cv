@@ -9,36 +9,41 @@
 
 ## :telephone_receiver: <a name="contact"> Contact Me</a>
 
-I'm currently open to job opportunities in Vancouver and Toronto, Canada. If you're interested in contacting me, please do so via [Angel.co](https://angel.co/tim-chipperfield) or [Linkedin](https://www.linkedin.com/in/timchipperfield/). Cheers!
+I'm currently open to job opportunities in Vancouver, Canada. If you're interested in contacting me, please do so via [Angel.co](https://angel.co/tim-chipperfield) or [Linkedin](https://www.linkedin.com/in/timchipperfield/). Cheers!
 
 ## :earth_americas: <a name="overview"> Overview</a>
 
-I'm keen to apply my skills as a backend or full-stack developer in a progressive, team-based environment focussed on delivering quality products. My passion lies in collaborating to reach common goals and I am looking to find a career path leading towards product management.
+Full-stack intermediate Rails developer that is passionate about creating innovative software to make people’s lives better. Strong communicator with experience in project management, relationship building and analysis on three continents.
 
 ## :zap:<a name="strengths"> Professional Strengths</a>
 
 ### :wrench: A Driven Collaborator and Leader
 
-I am passionate about working with people and building new things. Currently, I'm working as an API developer at an innovative dating app called TrueView where I help the team focus on our goals, track our progress and communicate with one another.
+I am passionate about working with people and building new things. Currently, I've been working as an API developer at an innovative dating app called TrueView where I help the team focus on our goals, track our progress and communicate with one another.
 
 Collaborative, project-based environments are my forte. To complement my skills, I studies project management, earning a PMI registered certificate in 2014. I'm a huge fan of Agile methodologies and most recently, I received the	**Certified Scrum Developer I** certification.
 
 ### :bulb: Technical Overview
 
-Please note: I'm flexible and I love learning new things so please don't consider the following to be an exhaustive list.  
-**Languages:** 	Ruby (proficient), Javascript & SQL (novice), Java & Python (actively learning)  
-**Tools:** 		Git, Docker, Command Line, PostgreSQL, Redis, memcached, Zenhub, Jira, UML, Honeybadger  
-**Testing:** 	Rspec, Capybara, Jasmine  
-**Web:** Rails, REST APIs, Slim, HTML, CSS, SCSS, jQuery  
+Ruby, Rails, React, TDD/BDD, JavaScript, Postgres, HTML5, CSS3, Docker, Git, Jira, and Redis⠀⠀⠀ ⠀⠀
+Certified Scrum Developer  
 
 ## :coffee: <a name="work"> Work Experience Overview</a>
 
+* **CEO - Freelance at Chipperfield Digital Solutions in Vancouver, Canada** (Jun 2018 - Present)
+ * Built a full-stack Rails student-coaching messaging application for an NGO.
+
+Technology Overview: Ruby on Rails, Git/Bitbucket, RSpec, PostgreSQL, AWS, Javascript, HTML5 & CSS3, Bootstrap, Slim.
+
 * **Software Engineer and Scrum Master at TrueView in London, United Kingdom** (November 2016-Present)
-  * Built, tested and deployed API products using Ruby on Rails and PosgreSQL.
-  * Created innovative and intuitive product features such as a mutual matching algorithm and a boost product.
-  * Led weekly Scrum planning meetings to translate business goals and concepts into product requirements.
-  * Drove internal stakeholder communication regarding product goals, progress and best practices.
-  * Performed data analysis and made recommendations to improve performance and increase revenue.
+ * Built with a team the mobile dating app API using Rails, Active Record, and PostgreSQL. 
+ * Built a full stack administration dashboard for user profiles using Rails, JavaScript (jQuery), and Slim.
+ * Created innovative and intuitive product features such as a mutual matching algorithm and a boost product.
+ * Led weekly Scrum planning to translate business value and requirements into work items using Jira.
+ * Drove internal stakeholder communication regarding product goals, progress and best practices.
+ * Performed data analysis and provided recommendations to improve API performance and increase revenue.
+
+Technology Overview: Ruby on Rails, Docker, Git/Github, Rspec, Capybara, PostgreSQL, AWS, Redis, Javascript, HTML, YML, JSON, Slim, CSS.
 
 * **Research Assistant at Ruhr University Bochum, Germany** (May 2015-April 2016)
   * Worked with principal investigators to coordinate qualitative research into global textile supply chain practices.
