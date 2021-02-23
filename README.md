@@ -1,26 +1,22 @@
 # **Tim Chipperfield** 
 [**Contact**](#contact) |
 [**Overview**](#overview) |
-[**Professional Strengths**](#strengths) |
 [**Work**](#work) |
 [**Education**](#education) |
-[**Projects**](#projects) |
 [**Hobbies**](#play)
-
-## :telephone_receiver: <a name="contact"> Contact Me</a>
-
-I'm currently open to remote or in-person job opportunities in Vancouver, Canada. If you're interested in contacting me, please do so via [Linkedin](https://www.linkedin.com/in/timchipperfield/). Cheers!
 
 ## :earth_americas: <a name="overview"> Overview</a>
 
 Software development team lead passionate about helping smart people create meaningful software. Experienced in project management, analysis and communicating in challenging environments.
 
-## :zap:<a name="strengths"> Professional Strengths</a>
+## :telephone_receiver: <a name="contact"> Contact Me</a>
 
-### :bulb: Technical Overview
+I'm currently open to remote or in-person job opportunities in Vancouver, Canada. If you're interested in contacting me, please do so via [Linkedin](https://www.linkedin.com/in/timchipperfield/). Cheers!
 
-Ruby, Rails, React, TDD/BDD, JavaScript, PostgreSQL, HTML5, CSS3, Docker, Git, Jira, and Redis, Confluence, UML, Excel/Google Sheets⠀⠀⠀ ⠀⠀
-PSPO (Certified Scrum Product Owner), CSD (Certified Scrum Developer), AWS Certified Cloud Practitioner  
+## :bulb: Technical Overview
+
+* Ruby, Rails, React, TDD/BDD, JavaScript, PostgreSQL, HTML5, CSS3, Docker, Git, Jira, and Redis, Confluence, UML, Excel/Google Sheets⠀⠀⠀ ⠀⠀
+* Project Management (UBC), PSPO (Certified Scrum Product Owner), CSD (Certified Scrum Developer), AWS Certified Cloud Practitioner  
 
 ## :coffee: <a name="work"> Work Experience Overview</a>
 
