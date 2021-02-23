@@ -25,34 +25,34 @@ PSPO (Certified Scrum Product Owner), CSD (Certified Scrum Developer), AWS Certi
 ## :coffee: <a name="work"> Work Experience Overview</a>
 
 * **Team Lead at Lendesk in Vancouver, Canada** (Jan 2020 - Feb 2021)
- * Led the firm’s largest full stack team of 10 (7 direct reports: 6 engineers & QA) and delivered 6 projects on schedule with low churn.
- * Drove agile processes for the team, led workshops and produced technical roadmaps to prioritize areas of technical debt in a complex legacy system.
- * Performed code reviews, production queries and helped fix high-priority bugs affecting our core product.
- * Managed internal responses to high-priority incidents affecting consumer-facing products.
- * Motivated team members to exceed expectations through trust building, delegation and regular coaching conversations.
- * Collaborated with senior management on strategies, special initiatives and policy-level decisions to shape the team’s priorities and procedures and ensure effective resource allocation.
+  * Led the firm’s largest full stack team of 10 (7 direct reports: 6 engineers & QA) and delivered 6 projects on schedule with low churn.
+  * Drove agile processes for the team, led workshops and produced technical roadmaps to prioritize areas of technical debt in a complex legacy system.
+  * Performed code reviews, production queries and helped fix high-priority bugs affecting our core product.
+  * Managed internal responses to high-priority incidents affecting consumer-facing products.
+  * Motivated team members to exceed expectations through trust building, delegation and regular coaching conversations.
+  * Collaborated with senior management on strategies, special initiatives and policy-level decisions to shape the team’s priorities and procedures and ensure effective resource allocation.
 
 * **Software Developer and Scrum Master at Paywith in Vancouver, Canada** (Sept 2018 - Jan 2020)
- * Built features and integrations including “Know Your Customer” for the API & developed admin dashboard utilities for a money transfer application.
- * Solicited stakeholder input to build a product backlog including features, bugs and refactors.
- * Led a back end engineering team of 3 to deliver a secure money transfer app using Rails, PostgreSQL & Heroku.
- * Helped develop a fully-componentized SOC2-compliant banking API, resulting in the client being able to issue their own points cards.
+  * Built features and integrations including “Know Your Customer” for the API & developed admin dashboard utilities for a money transfer application.
+  * Solicited stakeholder input to build a product backlog including features, bugs and refactors.
+  * Led a back end engineering team of 3 to deliver a secure money transfer app using Rails, PostgreSQL & Heroku.
+  * Helped develop a fully-componentized SOC2-compliant banking API, resulting in the client being able to issue their own points cards.
 
 Technology Overview: Ruby on Rails, Git, RSpec, PostgreSQL, Heroku.
 
 * **CEO - Freelance at Chipperfield Digital Solutions in Vancouver, Canada** (Jun 2018 - Jan 2020)
- * Built a full-stack Rails student-coaching messaging application for an NGO based in London, UK.		
- * Solely responsible for troubleshooting and delivering the product to the client under a tight deadline. 	
+  * Built a full-stack Rails student-coaching messaging application for an NGO based in London, UK.		
+  * Solely responsible for troubleshooting and delivering the product to the client under a tight deadline. 	
 
 Technology Overview: Ruby on Rails, Git/Bitbucket, RSpec, PostgreSQL, AWS, Javascript, HTML5 & CSS3, Bootstrap, Slim.
 
 * **Software Engineer and Scrum Master at TrueView in London, United Kingdom** (November 2016-Present)
- * Built with a team the mobile dating app API using Rails, Active Record, and PostgreSQL. 
- * Built a full stack administration dashboard for user profiles using Rails, JavaScript (jQuery), and Slim.
- * Created innovative and intuitive product features such as a mutual matching algorithm and a boost product.
- * Led weekly Scrum planning to translate business value and requirements into work items using Jira.
- * Drove internal stakeholder communication regarding product goals, progress and best practices.
- * Performed data analysis and provided recommendations to improve API performance and increase revenue.
+  * Built with a team the mobile dating app API using Rails, Active Record, and PostgreSQL. 
+  * Built a full stack administration dashboard for user profiles using Rails, JavaScript (jQuery), and Slim.
+  * Created innovative and intuitive product features such as a mutual matching algorithm and a boost product.
+  * Led weekly Scrum planning to translate business value and requirements into work items using Jira.
+  * Drove internal stakeholder communication regarding product goals, progress and best practices.
+  * Performed data analysis and provided recommendations to improve API performance and increase revenue.
 
 Technology Overview: Ruby on Rails, Docker, Git/Github, Rspec, Capybara, PostgreSQL, AWS, Redis, Javascript, HTML, YML, JSON, Slim, CSS.
 
@@ -67,10 +67,11 @@ Technology Overview: Ruby on Rails, Docker, Git/Github, Rspec, Capybara, Postgre
   *  Deployed and administered CRM and political databases, including maintenance, updates and reports.
 
 * **Resource Centre Officer at CUSO International in Beira, Mozambique** (November 2011-March 2013)
-  * Analyzed rural community needs and implemented an environmental education program reaching 15 schools.
-  * Implemented GIS tracking to improve forest replantation efficiency and increase transparency.
-  * Recruited and trained new volunteers on how to initiate, conduct and manage their own projects in Maputo.
-  * Performed regular rural community visits to cultivate relationships with leaders and other citizens to draw attention to deforestation and increase support for mangrove reforestation.
+  * Secured two grants totaling $22k to facilitate projects for sustainable livelihoods in rural communities.
+  * Championed technical solutions including GPS tracking for mangrove reforestation projects.
+  * Developed an environmental initiative to increase community awareness - launched in 15 schools.
+  * Collaborated with community and rural leaders to solve deforestation challenges.
+
 
 ## :book: <a name="education"> Education Overview</a>
 
